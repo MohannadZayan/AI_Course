@@ -55,6 +55,10 @@ I have started with **data preprocessing**—an essential step for preparing raw
 - [x] **Encoding the dependent variable** — transforming the target variable into an appropriate numeric format for classification tasks.
 - [x] **Feature scaling** — learning when to standardize or normalize features, especially for distance- and gradient-based models such as KNN, SVM, and logistic regression; understanding that it is usually unnecessary for tree-based models.
 
+### Completed: Regression
+
+- [x] **Simple Linear Regression** — building a model that learns the relationship between one independent variable and a continuous dependent variable, then using it to make predictions and visualize the fitted regression line.
+
 I will keep this section updated as I learn new concepts, build notebooks, and complete projects.
 
 ---
