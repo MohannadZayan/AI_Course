@@ -46,7 +46,16 @@ Each section of the course will include:
 
 ## 📈 Progress
 
-This repository will be updated regularly as I progress through the course, with new notebooks, code, and projects added over time.
+I have started with **data preprocessing**—an essential step for preparing raw data for machine-learning models.
+
+### Completed: Data Preprocessing
+
+- [x] **Taking care of missing data** — identifying missing values and handling them by removing incomplete observations or imputing suitable replacement values.
+- [x] **Encoding categorical data** — converting non-numeric features into numeric representations that machine-learning algorithms can use.
+- [x] **Encoding the dependent variable** — transforming the target variable into an appropriate numeric format for classification tasks.
+- [x] **Feature scaling** — learning when to standardize or normalize features, especially for distance- and gradient-based models such as KNN, SVM, and logistic regression; understanding that it is usually unnecessary for tree-based models.
+
+I will keep this section updated as I learn new concepts, build notebooks, and complete projects.
 
 ---
 
