@@ -58,6 +58,7 @@ I have started with **data preprocessing**—an essential step for preparing raw
 ### Completed: Regression
 
 - [x] **Simple Linear Regression** — building a model that learns the relationship between one independent variable and a continuous dependent variable, then using it to make predictions and visualize the fitted regression line.
+- [x] **Multiple Linear Regression** — building a model that uses several independent variables to predict a continuous dependent variable, and understanding how each feature contributes while the others are held constant.
 
 I will keep this section updated as I learn new concepts, build notebooks, and complete projects.
 
